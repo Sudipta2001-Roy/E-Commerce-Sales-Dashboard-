@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Dashboard-
+# Project --- E-Commerce-Sales-Dashboard-
 This dashboard is an interactive and dynamic eCommerce sales tracker, built in Microsoft Excel, designed to allow users to analyse sales data across various dimensions such as product category,
 This dashboard is an interactive and dynamic eCommerce sales tracker, built in Microsoft Excel, designed to allow users to analyse sales data across various dimensions such as product category, region, or sales channel. It leverages Combo Boxes (Form Controls) for interactivity and the OFFSET formula to dynamically display and update relevant data based on user selections.
 
